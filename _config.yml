@@ -1,26 +1,31 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    Weibo: https://weibo.com/u/6202034861
+    GitHub: https://github.com/liipx
     Rss: /atom.xml
 
 favicon: /favicon.png
 logo: /favicon.png
 
 # Comment
-# e.g disqus: seansun
-disqus:
-duoshuo: 
+# e.g status: true
+# https://github.com/imsun/gitment#options
+gitment:
+    status: true
+    githubId: liipx
+    repo: liipx.github.io
+    clientId: 05d70b40914f07429a29
+    clientSecret: fe69d30a07a6568bb4afb8f3551e29ca1e253c84
 
 # Analytics
 # google-analytics:
-ga: UA-65933410-1
+ga:
 # baidu-analytics:
-ba: 
+ba: 971cfc54a1119f6a99f4dc2bc0659ef9
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2018
 
 # Font CDN
 #true : use google fonts api, not stable for chinese visitor sometimes, caused by force majeure factor
