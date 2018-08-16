@@ -1,17 +1,15 @@
 header {
     min-height: 60px;
 
-    .logo-link {
+    .title-link {
+        font-size: 18px;
         float: left;
+        display: inline-block;
     }
     
     .nav {
         float: right;
         left: 80px;
-    }
-
-    .logo-link img {
-        height: 60px;
     }
 
     .nav-list-item {

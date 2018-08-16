@@ -4,7 +4,7 @@ section.container {
 
 @media screen and (min-width: 700px) {
     .wrap {
-        width: 700px;
+        width: 730px;
         margin: 0 auto;
     }
     header {
@@ -18,7 +18,7 @@ section.container {
     }
     header {
         padding: 20px 0;
-        a.logo-link,
+        a.title-link,
         ul.nav.nav-list {
             float: none;
             display: block;
@@ -42,8 +42,7 @@ section.container {
             left: 15px;
         }
     }
-    .ds-thread,
-    #disqus_thread {
-        margin: 2em 10px;
+    .gitment {
+        margin: 2em 1.5em;
     }
 }
